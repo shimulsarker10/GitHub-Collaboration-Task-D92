@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4E12AQFJAP4L-KoDzA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1718402483879?e=2147483647&v=beta&t=zPbtSlYxjp0fOhl7mkOcVBFhyF0rQklQUOwft7WAf5I" width="800" alt="Git & GitHub Image">
 </p>
+
 ## GitHub-Collaboration-Task-D92
 
 This repository was created as part of the Git and GitHub laboratory task for Batch D92, Department of Computer Science and Engineering, Dhaka International University (DIU).
