@@ -27,3 +27,14 @@ public class Shimul {
         this.age = age;
     }
 }
+ class samim{
+    private String name;
+    private int age;
+
+    public samim(String name, int age) {
+        this.name = name;
+        this.age = age;
+    }
+
+
+}
